@@ -4,12 +4,12 @@ I'm a passionate Flutter and Python developer with expertise in Bloc, Firebase, 
 
 ## 🚀 Technologies & Tools
 
-- ![GitHub Logo](https://github.com/fluidicon.png) GitHub
-- ![Flutter Logo](https://flutter.dev/assets/flutter-lockup-4cb0c7cacc89b1daee2f1cc948d666cc.svg) Flutter & Dart
-- ![Python Logo](https://www.python.org/static/community_logos/python-logo-generic.svg) Python & Django
-- ![Django Logo](https://www.djangoproject.com/m/img/logos/django-logo-negative.png) Django
-- ![Bloc Logo](https://bloclibrary.dev/assets/logo.png) Bloc Pattern
-- ![Firebase Logo](https://firebase.google.com/images/brand-guidelines/logo-logomark.png) Firebase
+- <img src="https://github.com/fluidicon.png" alt="GitHub Logo" width="20"/> GitHub
+- <img src="https://flutter.dev/assets/flutter-lockup-4cb0c7cacc89b1daee2f1cc948d666cc.svg" alt="Flutter Logo" width="20"/> Flutter & Dart
+- <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python Logo" width="20"/> Python & Django
+- <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django Logo" width="20"/> Django
+- <img src="https://bloclibrary.dev/assets/logo.png" alt="Bloc Logo" width="20"/> Bloc Pattern
+- <img src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" alt="Firebase Logo" width="20"/> Firebase
 - HTML, CSS, JS
 
 ## 🔧 Projects
