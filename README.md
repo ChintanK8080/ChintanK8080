@@ -1,22 +1,34 @@
-### Hi there 👋
+# Hi there! 👋 I'm Chintan K.
 
-<!--
-**ChintanK8080/ChintanK8080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Flutter and Python developer with expertise in Bloc, Firebase, Django, and Django Rest Framework. I also have some knowledge of HTML, CSS, and JS. Constantly curious and always looking for efficient ways to code.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Flutter & Dart
+- Python & Django
+- Bloc Pattern
+- Firebase
+- HTML, CSS, JS
 
-![Chintan's GitHub stats](https://yc-stats.vercel.app/api?username=ChintanK8080&show_icons=true&count_private=true&border_radius=12&title_color=58a6ff&bg_color=161b22&show_owner=true&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)
+## 🔧 Projects
 
-![github-user-contribution](https://user-images.githubusercontent.com/46894260/174278334-193432e7-56f9-485c-b0e4-63d0595eac53.svg)
+### Project 1: [Project Name]
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChintanK8080&hide_border=true&background=161b22&ring=27d545&fire=27d545&currStreakLabel=27d545&currStreakNum=f0f6fc&sideLabels=c9d1d9&dates=8b949e&sideNums=f0f6fc&stroke=30363d" alt="Chintan K's GitHub Streak" />
+Brief description of the project and its significance. Highlight the technologies used and your role in the project.
+
+### Project 2: [Project Name]
+
+Brief description of the project and its significance. Highlight the technologies used and your role in the project.
+
+...
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/chintan-k-798a21193/)
+- [Instagram](https://www.instagram.com/chintan__k?utm_source=qr&igsh=MXZ5b2l2M3JpbW5pcw==)
+
+Let's connect and discuss exciting opportunities!
+
+---
+
+Feel free to customize the above template by adding more details about your projects, skills, and any other relevant information. Use emojis, badges, or shields to make it visually appealing. Ensure that your README provides a clear and concise overview of who you are and what you do.
