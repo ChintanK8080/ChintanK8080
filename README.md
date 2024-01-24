@@ -30,5 +30,3 @@ Brief description of the project and its significance. Highlight the technologie
 Let's connect and discuss exciting opportunities!
 
 ---
-
-Feel free to customize the above template by adding more details about your projects, skills, and any other relevant information. Use emojis, badges, or shields to make it visually appealing. Ensure that your README provides a clear and concise overview of who you are and what you do.
