@@ -5,7 +5,7 @@ I'm a passionate Flutter and Python developer with expertise in Bloc, Firebase, 
 ## 🚀 Technologies & Tools
 
 - <img src="https://github.com/fluidicon.png" alt="GitHub Logo" width="20"/> GitHub
-- <img src="[https://flutter.dev/assets/flutter-lockup-4cb0c7cacc89b1daee2f1cc948d666cc.svg" alt="Flutter Logo" width="20](https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg)"/> Flutter & Dart
+- <img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg"/> Flutter & Dart
 - <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python Logo" width="20"/> Python & Django
 - <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django Logo" width="20"/> Django
 - <img src="https://bloclibrary.dev/assets/logo.png" alt="Bloc Logo" width="20"/> Bloc Pattern
