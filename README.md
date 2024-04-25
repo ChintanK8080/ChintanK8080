@@ -11,17 +11,6 @@ I'm a passionate Flutter and Python developer with expertise in Bloc, Firebase, 
 - <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/favicon.ico" alt="Bloc Logo" width="20"/> Bloc Pattern
 - <img src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" alt="Firebase Logo" width="20"/> Firebase
 - HTML, CSS, JS
-
-## 🔧 Projects
-
-### Project 1: [Project Name]
-
-Brief description of the project and its significance. Highlight the technologies used and your role in the project.
-
-### Project 2: [Project Name]
-
-Brief description of the project and its significance. Highlight the technologies used and your role in the project.
-
 ...
 
 ## 📫 Connect with Me
