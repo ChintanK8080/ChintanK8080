@@ -9,9 +9,9 @@ I'm a passionate Flutter and Python developer with expertise in Bloc, Firebase, 
 - <img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" alt="Scikit-learn Logo" width="20"/> Scikit Learn
 - <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas Logo" width="20"/> Pandas
 - <img src="https://numpy.org/images/logo.svg" alt="NumPy Logo" width="20"/> NumPy
-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/SQLite_Logo.svg" alt="SQL Logo" width="20"/> SQL
+- <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="SQL Logo" width="20"/> SQL
 - <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI Logo" width="20"/> FastAPI
-- <img src="https://learn.microsoft.com/en-us/power-bi/developer/visuals/media/power-bi-visuals-sample/power-bi-logo.svg" alt="Power BI Logo" width="20"/> Power BI
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="Power BI Logo" width="20"/> Power BI
 - <img src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" alt="Firebase Logo" width="20"/> Firebase
 - HTML, CSS, JS
 ...
