@@ -11,7 +11,7 @@ I'm a passionate Flutter and Python developer with expertise in Bloc, Firebase, 
 - <img src="https://numpy.org/images/logo.svg" alt="NumPy Logo" width="20"/> NumPy
 - <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="SQL Logo" width="20"/> SQL
 - <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI Logo" width="20"/> FastAPI
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="Power BI Logo" width="20"/> Power BI
+- Power BI
 - <img src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" alt="Firebase Logo" width="20"/> Firebase
 - HTML, CSS, JS
 ...
